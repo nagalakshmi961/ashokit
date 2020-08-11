@@ -1,0 +1,7 @@
+public void javaUtill{
+
+public void main(){
+system.out.println();
+}
+
+}
